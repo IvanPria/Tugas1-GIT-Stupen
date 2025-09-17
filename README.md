@@ -1,2 +1,2 @@
-# Tugas1-GIT-Stupen
-Tugas 1 - Course GIT - NF Academy
+# Tugas 1_GIT_Stupen
+Ivan Pria Sudrajad_Universitas NEgeri Surabaya_FWD1
