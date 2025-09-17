@@ -1,2 +1,2 @@
 # Tugas 1_GIT_Stupen
-Ivan Pria Sudrajad_Universitas NEgeri Surabaya_FWD1
+Ivan Pria Sudrajad_Universitas Negeri Surabaya_FWD1
